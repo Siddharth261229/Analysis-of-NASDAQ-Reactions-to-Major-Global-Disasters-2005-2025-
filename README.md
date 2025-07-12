@@ -121,4 +121,4 @@ The CAR plot (Figure 1) reveals several important market patterns in response to
 ## 📬 Contact
 
 Developed by **Siddharth Shekhawat** as part of an academic project on event-driven financial analytics.  
-For queries or collaborations: `sidshekhawat26@gmail.com` (replace with actual address).
+For queries or collaborations: `sidshekhawat26@gmail.com` .
